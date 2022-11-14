@@ -1,0 +1,31 @@
+body{
+  background-color: rgb(232, 183, 183);
+}
+.ordered{
+  background-color: rgb(165, 136, 97);
+  width: 300px;
+}
+.likes{
+  background-color: rgb(9, 73, 73);
+  font-weight: bold;
+}
+#love{
+  background-color: bisque;
+  font-weight: 100;
+}
+.unordered{
+  background-color: brown;
+  width: 300px;
+}
+.dislikes{
+  list-style-type: square;
+  font-size: 18px;
+}
+#hate{
+  background-color: blanchedalmond;
+  list-style-type: circle;
+}
+#hate2{
+  font-size: 14px ;
+  border: 1px solid black;
+}
